@@ -1,0 +1,59 @@
+{
+  "common": {
+    "loading": "در حال بارگذاری...",
+    "error": "خطایی رخ داد",
+    "success": "موفق",
+    "cancel": "لغو",
+    "save": "ذخیره",
+    "delete": "حذف",
+    "edit": "ویرایش",
+    "create": "ایجاد",
+    "submit": "ارسال",
+    "back": "بازگشت",
+    "next": "بعدی",
+    "previous": "قبلی",
+    "search": "جستجو",
+    "filter": "فیلتر",
+    "clear": "پاک کردن"
+  },
+  "auth": {
+    "login": "ورود",
+    "logout": "خروج",
+    "register": "ثبت نام",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "username": "نام کاربری",
+    "forgotPassword": "رمز عبور را فراموش کرده‌اید؟",
+    "signInWithEthereum": "ورود با اتریوم",
+    "connectWallet": "اتصال کیف پول"
+  },
+  "programs": {
+    "title": "برنامه‌های باگ بانتی",
+    "createProgram": "ایجاد برنامه",
+    "web2": "وب ۲",
+    "web3": "وب ۳",
+    "public": "عمومی",
+    "private": "خصوصی",
+    "active": "فعال",
+    "paused": "متوقف",
+    "closed": "بسته",
+    "bountyTable": "جدول پاداش",
+    "inScope": "در محدوده",
+    "outOfScope": "خارج از محدوده"
+  },
+  "submissions": {
+    "title": "ارسال‌ها",
+    "createSubmission": "ارسال آسیب‌پذیری",
+    "severity": "شدت",
+    "critical": "بحرانی",
+    "high": "بالا",
+    "medium": "متوسط",
+    "low": "پایین",
+    "informational": "اطلاعاتی",
+    "status": "وضعیت",
+    "new": "جدید",
+    "triaged": "دسته‌بندی شده",
+    "resolved": "حل شده"
+  }
+}
+

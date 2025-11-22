@@ -1,0 +1,59 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "register": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "forgotPassword": "Forgot Password?",
+    "signInWithEthereum": "Sign in with Ethereum",
+    "connectWallet": "Connect Wallet"
+  },
+  "programs": {
+    "title": "Bug Bounty Programs",
+    "createProgram": "Create Program",
+    "web2": "Web2",
+    "web3": "Web3",
+    "public": "Public",
+    "private": "Private",
+    "active": "Active",
+    "paused": "Paused",
+    "closed": "Closed",
+    "bountyTable": "Bounty Table",
+    "inScope": "In Scope",
+    "outOfScope": "Out of Scope"
+  },
+  "submissions": {
+    "title": "Submissions",
+    "createSubmission": "Submit Vulnerability",
+    "severity": "Severity",
+    "critical": "Critical",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "informational": "Informational",
+    "status": "Status",
+    "new": "New",
+    "triaged": "Triaged",
+    "resolved": "Resolved"
+  }
+}
+
