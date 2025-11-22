@@ -183,3 +183,4 @@ Write-Host ""
 Write-Host "IMPORTANT: Make sure PostgreSQL is running!" -ForegroundColor Yellow
 Write-Host ""
 
+
